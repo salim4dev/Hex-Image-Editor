@@ -19,7 +19,7 @@ Il permet de charger une image, afficher son contenu en hexadécimal, modifier l
 - Sauvegarde de l’image modifiée.
 
 
-## Technologies utilisées
+## Stack utilisé
 
 - **Python 3**
 - **Tkinter** → Interface graphique
