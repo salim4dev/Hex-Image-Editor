@@ -4,7 +4,8 @@
 Un petit éditeur hexadécimal d’images avec **interface graphique Tkinter**.  
 Il permet de charger une image, afficher son contenu en hexadécimal, modifier les octets, et enregistrer l’image modifiée.
 
----
+##  Aperçu
+![Capture d'écran du projet](heximgeditor.PNG)
 
 ## 🚀 Fonctionnalités
 
@@ -17,10 +18,7 @@ Il permet de charger une image, afficher son contenu en hexadécimal, modifier l
 - Application des changements → l’image est mise à jour.
 - Sauvegarde de l’image modifiée.
 
----
-##  Aperçu
-![Capture d'écran du projet](heximgeditor.PNG)
----
+
 ## Technologies utilisées
 
 - **Python 3**
@@ -28,7 +26,7 @@ Il permet de charger une image, afficher son contenu en hexadécimal, modifier l
 - **Pillow (PIL)** → Gestion des images
 - **NumPy** → Génération d’images bruitées
 
-
+---
 ## 📦 Installation
 
 1. Installer **Python 3** depuis le site officiel (si ce n’est pas déjà fait) :  
@@ -45,7 +43,7 @@ Il permet de charger une image, afficher son contenu en hexadécimal, modifier l
    
 3. Cloner le dépôt :
    ```bash
-   git clone https://github.com/ton-pseudo/hex-image-editor.git
+   git clone https://github.com/salim4dev/Hex-Image-Editor.git
    cd hex-image-editor
    ```
 4. Installer les dépendances :
